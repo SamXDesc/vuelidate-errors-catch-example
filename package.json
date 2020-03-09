@@ -4,6 +4,7 @@
   "description": "Vuelidate errors catch example",
   "author": "Samuel Desconsi <samuel.desconsi@melhorenvio.com>",
   "private": true,
+  "main": "./dist",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
